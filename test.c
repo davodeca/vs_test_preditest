@@ -1,5 +1,6 @@
 #include <stdio.h>
 int main() {
     printf("dowijdane, davod\n");
-    return 0;
+    printf("Nazdrawe, davod\n");
+    return 2;
 }
